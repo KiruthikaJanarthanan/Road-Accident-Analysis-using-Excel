@@ -14,7 +14,11 @@ Dataset-[Download Here](https://docs.google.com/spreadsheets/d/1v00YZtOWodegCMTw
 
 Dashboard file-[Download Here](https://docs.google.com/spreadsheets/d/13-NECNsgjHVUl5Ak3Xr4Jut0iFeWrJML/edit?usp=drive_link&ouid=105485232698880748717&rtpof=true&sd=true)
 
+
 Dashboard--![analysis dashboard](https://github.com/user-attachments/assets/5785f3d6-34ae-4062-b9e1-ba5df329f595)
+![KPI data](https://github.com/user-attachments/assets/48a6f467-bff9-476a-825d-8b16b2e0b791)
+![report analysis](https://github.com/user-attachments/assets/b330d8d5-ad72-4b39-96ae-1dc5c207cc18)
+
 
 **Key Findings**
 1.Developed an interactive Excel dashboard analyzing 307,974 road accident records (2021-2022) to uncover key trends.
